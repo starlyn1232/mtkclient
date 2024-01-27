@@ -252,7 +252,6 @@ class chipconfig:
         self.socid_addr = socid_addr
         self.prov_addr = prov_addr
         self.gcpu_base = gcpu_base
-        self.dacode = dacode
         self.damode = damode
         self.loader = loader
         self.misc_lock = misc_lock
